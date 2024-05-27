@@ -24,15 +24,15 @@ The project addresses the challenge of processing and visualizing real-time NBA 
   Configures Grafana to visualize the real-time data.
   Steps to set up and use Grafana dashboards.
 
-Setup Instructions:
+## Setup Instructions:
 
 Detailed instructions for setting up the environment, including installing and configuring Java, Kafka, Spark, InfluxDB, and Grafana.
 Python scripts and commands for running the data pipeline.
 
-Impact:
+## Impact:
 The pipeline enhances game analysis, optimizes player performance, and boosts fan engagement by providing real-time, actionable insights from live NBA game data.
 
-How to Use:
+## How to Use:
 
 Follow the setup instructions to configure your environment.
 Use the provided Python scripts to start the Kafka producer and Spark jobs.
